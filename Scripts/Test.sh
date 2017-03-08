@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "Script File"
+echo "Test Script File"
